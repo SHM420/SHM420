@@ -2,16 +2,16 @@
   <img src="https://media.giphy.com/media/XNUPUjxLq9SuwoQDEp/giphy.gif" width="400" height="400"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/miljan-jovi%C4%87-594799200/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ---
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/miljan-jovi%C4%87-594799200/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 ---
