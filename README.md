@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia.
 
-- :telescope: Highly motivated and experienced Front End Developer with over 2 years of experience in developing high-performance, interactive user interfaces for web applications.
+- :telescope: Highly motivated and experienced Front End Developer with over 6 years of experience in developing high-performance, interactive user interfaces for web applications.
 
 - :seedling: Able to quickly learn and adopt new technologies and develop creative solutions to challenging problems.
 
